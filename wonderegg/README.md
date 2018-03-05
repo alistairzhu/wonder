@@ -3,11 +3,13 @@ catherinezhou1212,
 Jacky-Z, 
 James Xia
 
-# role: catherinezhou1212, Jacky-Z, James Xia
+# role: catherinezhou1212, Jacky-Z, James Xia, Tong Zhu
 ## role: graphic designer,solidty developer,webpage developer,PM,Architect
 catherinezhou1212 
 Jacky-Z
 James Xia
+Tong Zhu
+
 
  # Projective
 Ideas of using Ethereum Smart Contract project
